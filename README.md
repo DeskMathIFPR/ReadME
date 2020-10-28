@@ -47,8 +47,8 @@ Here will be the images and descriptions. Principal content.
 ## Links
  
   - Link para Download DeskMath: **********************
-  - Em caso de bugs ou erros com o programa, por favor entre em contato com: DeskMathIFPR@gmail.com 
-  - Link GitHub: (https://github.com/lucascardos0)
+  - Em caso de bugs ou erros com o programa, por favor entre em contato com: deskmathifpr@gmail.com 
+  - Link GitHub: (https://github.com/DeskMathIFPR)
     
 ## Versão
  
