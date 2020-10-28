@@ -1,4 +1,4 @@
-![Logo do projeto!](https://github.com/lucascardos0/DeskMath-TCC/blob/main/logo2.png)
+![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
  
 ## DeskMath
  
@@ -60,7 +60,7 @@ Beta
 
 ## Orientadoras 
 
-* **Cíntia Préve/Ana Paula** 
+  **Cíntia Préve/Ana Paula** 
   ##
  
  Obrigado por utilizar o DeskMath! 
