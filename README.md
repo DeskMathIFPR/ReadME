@@ -42,14 +42,14 @@ Here are the technologies used in this project.
 ### 1.2 - Aqui você pode fazer o seu cadastro para utilizar o aplicativo. 
 ![Cadastro Print](https://github.com/DeskMathIFPR/ReadME/blob/main/cadastroTELA.png)
 
-### 2 - 
-![]()
+### 2 - Você pode definir suas metas diárias adicionando um número total.
+![Metas Print](https://github.com/DeskMathIFPR/ReadME/blob/main/metasTELA.png)
 
-### 3 - 
-![]()
+### 3 - Na tela de tópicos você define por qual conceito quer comerçar, se preferir, pode ir nas configurações de perfil.
+![Topicos1 Print](https://github.com/DeskMathIFPR/ReadME/blob/main/topicos1TELA.png)
 
-### 4 - 
-![]()
+### 3.2 - ... Mais conceitos.
+![Topicos2 Print](https://github.com/DeskMathIFPR/ReadME/blob/main/topicos2TELA.png)
 
 ### 5 - 
 ![]()
