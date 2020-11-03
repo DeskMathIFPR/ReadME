@@ -34,10 +34,10 @@ Here are the technologies used in this project.
 * To run the project:
 >    $ rails s
  
-## How to use
+## Como utilizar o aplicativo
  
 ### 1 - Faça login no aplicativo. Você pode fazer o login ou cadastrar-se, se preferir.
-![Login Print](https://github.com/DeskMathIFPR/ReadME/blob/main/LoginTELA.png)
+![Login Print]()
 
 ### 2 - 
 ![]
