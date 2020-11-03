@@ -39,8 +39,23 @@ Here are the technologies used in this project.
 ### 1 - Faça login no aplicativo. Você pode fazer o login ou cadastrar-se, se preferir.
 ![Login Print](https://github.com/DeskMathIFPR/ReadME/blob/main/loginTELA.png)
 
+### 1.2 - Aqui você pode fazer o seu cadastro para utilizar o aplicativo. 
+![Cadastro Print]()
+
 ### 2 - 
-![]
+![]()
+
+### 3 - 
+![]()
+
+### 4 - 
+![]()
+
+### 5 - 
+![]()
+
+### 6 - 
+![]()
  
 ## Features
  
@@ -64,7 +79,8 @@ Beta
 ## Orientadoras 
 
   **Cíntia Préve/Ana Paula** 
-  ##
+
+##
  
  Obrigado por utilizar o DeskMath! 
  Nós agradecemos seu feedback para melhorar o funcionamento deste projeto.
