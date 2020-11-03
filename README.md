@@ -36,8 +36,11 @@ Here are the technologies used in this project.
  
 ## How to use
  
-Here will be the images and descriptions. Principal content.
- 
+### 1 - Faça login no aplicativo. Você pode fazer o login ou cadastrar-se, se preferir.
+![Login Print]()
+
+### 2 - 
+![]
  
 ## Features
  
