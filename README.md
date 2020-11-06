@@ -1,16 +1,12 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
-
-##   * [Sobre](#deskmath) 
-##   * [Serviços](#serviços-utilizados) 
-##   * [Instalação](#getting-started) 
-##   * [Como usar](#como-utilizar-o-aplicativo)
+   * [Sobre](#deskmath) 
+   * [Serviços](#serviços-utilizados) 
+   * [Instalação](#getting-started) 
+   * [Como usar](#como-utilizar-o-aplicativo)
+   * [Links](#links)
+   * [Autores](#autores)
     
-
-
-
-
- 
 ## DeskMath
  
 A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o objetivo é auxiliar alunos do Ensino Médio no aprendizado de conceitos da Matemática Básica, uma vez que, ela é ferramenta de efetiva importância no processo de ensino- aprendizagem, tanto da disciplina quanto no dia a dia social do aluno.
