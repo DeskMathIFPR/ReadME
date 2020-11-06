@@ -41,7 +41,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ![Perfil Print](https://github.com/DeskMathIFPR/ReadME/blob/main/perfilTELA.png)
 
 ### 4.2 - Na tela de favoritos você visualiza os exercícios favoritados, podendo excluí-los ou manter eles na tabela.
-![Favoritos Print](https://github.com/DeskMathIFPR/ReadME/blob/main/pfavoritosTELA.png)
+![Favoritos Print](https://github.com/DeskMathIFPR/ReadME/blob/main/favoritosTELA.png)
 
 ### 5 - Em todos os tópicos por padrão, você vai encontrar esse esquema que se divide em: Conceitos e Exercícios. Você pode optar entre um dos dois para aprender ou praticar o coneito escolhido.
 ![Radiciação Print](https://github.com/DeskMathIFPR/ReadME/blob/main/radi1TELA.png)
