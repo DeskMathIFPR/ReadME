@@ -1,14 +1,15 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
-<p align="center">
- <a href="## DeskMath">Sobre</a> •
- <a href="## Serviços Utilizados">Serviços</a> • 
- <a href="## Getting started">Instalação</a> • 
- <a href="## Como utilizar o aplicativo:">Como usar</a> • 
- <a href="## Links">Links</a> • 
- <a href="## Autores">Autores</a> •
- <a href="## Orientadoras">Orientadoras</a> 
-</p>
+
+   * [Sobre](## DeskMath) [•]
+    [Serviços](## Serviços Utilizados) [•]
+    [Instalação](## Getting started) [•]
+    [Como usar](## Como utilizar o aplicativo:)
+      
+
+
+
+•
  
 ## DeskMath
  
