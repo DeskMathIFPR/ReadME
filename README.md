@@ -51,10 +51,19 @@ Here are the technologies used in this project.
 ### 3.2 - ... Mais conceitos.
 ![Topicos2 Print](https://github.com/DeskMathIFPR/ReadME/blob/main/topicos2TELA.png)
 
+### 4 - 
+![Perfil Print]()
+
+### 4.2 - 
+![Favoritos Print]()
+
 ### 5 - 
 ![]()
 
 ### 6 - 
+![]()
+
+### 7 - 
 ![]()
  
 ## Features
