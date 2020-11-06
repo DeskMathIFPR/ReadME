@@ -4,26 +4,12 @@
  
 A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o objetivo é auxiliar alunos do Ensino Médio no aprendizado de conceitos da Matemática Básica, uma vez que, ela é ferramenta de efetiva importância no processo de ensino- aprendizagem, tanto da disciplina quanto no dia a dia social do aluno.
  
- 
-## Technology 
- 
-Here are the technologies used in this project.
- 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
- 
- 
 ## Serviços Utilizados
  
 * Github
 * NetBeans
 * MySQL
 * Java 
- 
- 
-## Ruby Gems
-...
  
 ## Getting started
  
@@ -34,7 +20,7 @@ Here are the technologies used in this project.
 * To run the project:
 >    $ rails s
  
-## Como utilizar o aplicativo
+## Como utilizar o aplicativo:
  
 ### 1 - Faça login no aplicativo. Você pode fazer o login ou cadastrar-se, se preferir.
 ![Login Print](https://github.com/DeskMathIFPR/ReadME/blob/main/loginTELA.png)
@@ -51,20 +37,20 @@ Here are the technologies used in this project.
 ### 3.2 - ... Mais conceitos.
 ![Topicos2 Print](https://github.com/DeskMathIFPR/ReadME/blob/main/topicos2TELA.png)
 
-### 4 - 
-![Perfil Print]()
+### 4 - Aqui você pode acessar as configurações de perfil, alterando os seus dados ou escolhendo um ícone que mais se identifica, podendo acessar também a tela de favoritos.
+![Perfil Print](https://github.com/DeskMathIFPR/ReadME/blob/main/perfilTELA.png)
 
-### 4.2 - 
-![Favoritos Print]()
+### 4.2 - Na tela de favoritos você visualiza os exercícios favoritados, podendo excluí-los ou manter eles na tabela.
+![Favoritos Print](https://github.com/DeskMathIFPR/ReadME/blob/main/pfavoritosTELA.png)
 
-### 5 - 
-![]()
+### 5 - Em todos os tópicos por padrão, você vai encontrar esse esquema que se divide em: Conceitos e Exercícios. Você pode optar entre um dos dois para aprender ou praticar o coneito escolhido.
+![Radiciação Print](https://github.com/DeskMathIFPR/ReadME/blob/main/radi1TELA.png)
 
-### 6 - 
-![]()
+### 5.2 - Na tela de conceitos você tera uma explicação sobre o conteúdo com exemplos para facilitar o aprendizado. Após compreender o tópico, é só clicar em "Entendi!" e partir para a prática dos exercícios.
+![Conceito Radi. Print](https://github.com/DeskMathIFPR/ReadME/blob/main/radi2TELA.png)
 
-### 7 - 
-![]()
+### 5.3 - Na tela de exercícios você terá um um botão para começar a praticar. Clicando em "Começar!", logo vai aparecer um exercício, após a resolução, é só digitrar a resposta no campo de texto e verificar se esta correta ou não.
+![Exercícios Radi. Print](https://github.com/DeskMathIFPR/ReadME/blob/main/radi3TELA.png)
  
 ## Features
  
