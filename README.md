@@ -1,6 +1,6 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
-* [🚧 Em desenvolvimento... 🚧]
+ 🚧 Em desenvolvimento... 🚧
 
    * [Sobre](#deskmath) 
    * [Serviços](#serviços-utilizados) 
