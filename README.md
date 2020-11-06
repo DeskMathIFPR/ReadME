@@ -1,15 +1,15 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
-<!--ts-->
-   * [Sobre](# DeskMath) 
+
+   * [Sobre](#deskMath) 
    * [Serviços](# Serviços Utilizados) 
    * [Instalação](# Getting started) 
    * [Como usar](# Como utilizar o aplicativo:)
-     <!--te--> 
+     
 
 
 
-•
+
  
 ## DeskMath
  
