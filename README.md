@@ -1,7 +1,5 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
- 🚧 Em desenvolvimento... 🚧
-
    * [Sobre](#deskmath) 
    * [Serviços](#serviços-utilizados) 
    * [Instalação](#getting-started) 
@@ -9,18 +7,18 @@
    * [Links](#links)
    * [Autores](#autores)
     
-## DeskMath
+## 💻DeskMath
  
 A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o objetivo é auxiliar alunos do Ensino Médio no aprendizado de conceitos da Matemática Básica, uma vez que, ela é ferramenta de efetiva importância no processo de ensino- aprendizagem, tanto da disciplina quanto no dia a dia social do aluno.
  
-## Serviços Utilizados
+## 🛠Serviços Utilizados
  
 * Github
 * NetBeans
 * MySQL
 * Java 
  
-## Getting started
+## 🚀Getting started
  
 * To install gems:
 >    $ bundle install
@@ -29,7 +27,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 * To run the project:
 >    $ rails s
  
-## Como utilizar o aplicativo:
+## ⚙️Como utilizar o aplicativo:
  
 ### 1 - Faça login no aplicativo. Você pode fazer o login ou cadastrar-se, se preferir.
 ![Login Print](https://github.com/DeskMathIFPR/ReadME/blob/main/loginTELA.png)
@@ -75,8 +73,10 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ## Versão
  
 Beta
+
+🚧 Em desenvolvimento... 🚧
  
-## Autores
+## 📝Autores
  
 * **Lucas Cardoso/Vincenzo Pizzeghello/João Souza** 
 
