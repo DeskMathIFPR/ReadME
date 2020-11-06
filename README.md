@@ -4,7 +4,7 @@
    * [Sobre](#deskmath) 
    * [Serviços](#serviços-utilizados) 
    * [Instalação](#getting-started) 
-   * [Como usar](#como-utilizar-o-aplicativo:)
+   * [Como usar](#como-utilizar-o-aplicativo)
      
 
 
