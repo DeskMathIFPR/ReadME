@@ -26,11 +26,14 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 
 ### Você pode instlar o Java JDK com o NetBeans em um único link seguindo esses passos:
 
-- Acesse esse [Link](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html).
-- Em seguidada, clique em "Download" para baixar o JDK mais atualizado junto do NetBeans:
+- Acesse esse **[Link](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html).
+- **Em seguida, clique em "Download" para baixar o JDK mais atualizado junto do NetBeans:**
 ![jdk Print](https://github.com/DeskMathIFPR/ReadME/blob/main/jdkTELA.png)
-- Aceito os termos de licença e em seguida escolha a versão que mais se encaixa com sua máquina:
+
+- **Aceite os termos de licença e em seguida escolha a versão que mais se encaixa com sua máquina:**
 ![jdk2 Print](https://github.com/DeskMathIFPR/ReadME/blob/main/jdk2TELA.png)
+
+- **A instalação vai começar e gerar um arquivo zip.**
  
 ## 🚀Como utilizar o aplicativo:
  
@@ -77,10 +80,10 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ## 🔗Links
  
   - Link para Download **DeskMath**: (**Link do Site**)
-  - Link instalação **Java**: (https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
-  - Link para vídeo de como instalar o Java: (*********)
+  - Link instalação **Java SE Platform (JDK)**: (https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
+  - Link para vídeo de como instalar o Java JDK: (https://www.youtube.com/watch?v=KeDhlDXezMs)
   - Link instalação **Netbeans**: (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
-  - Link para vídeo de como instalar o NetBeans: (*********)
+  - Link para vídeo de como instalar o NetBeans: (https://www.youtube.com/watch?v=kuiA6ciuYEQ)
   - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
 ## Versão
