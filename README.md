@@ -26,7 +26,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 
 ### Você pode instlar o Java JDK com o NetBeans em um único link seguindo esses passos:
 
-- Acesse esse **[Link](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html).
+- Acesse esse [Link](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html).
 - **Em seguida, clique em "Download" para baixar o JDK mais atualizado junto do NetBeans:**
 ![jdk Print](https://github.com/DeskMathIFPR/ReadME/blob/main/jdkTELA.png)
 
