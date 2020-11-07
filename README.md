@@ -20,7 +20,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ### 💡Pré-requisitos
 
  - Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html), [NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe), [Xampp](https://www.apachefriends.org/pt_br/download.html), [MySQL](https://dev.mysql.com/downloads/installer/).
+[Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html), [NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe), [Xampp](https://www.apachefriends.org/pt_br/download.html), [MySQL](https://dev.mysql.com/downloads/installer/), [WinRAR](https://www.win-rar.com/predownload.html?&L=0).
  
  - Se já tiver instalado na sua máquina uma dessas ferramentas, não necessita a reinstalação de uma delas!
 
@@ -84,8 +84,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 
 ## 🔗Links
  
-  - Link para Download **DeskMath:** (**Link do Site**)
-  
+  - Link para Download **DeskMath:** (**Link do Site**)  
   - Link instalação **Java SE Platform (JDK):** (https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
   - Link para vídeo de como instalar o Java JDK: (https://www.youtube.com/watch?v=KeDhlDXezMs)  
   - Link instalação **Netbeans:** (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
@@ -93,7 +92,9 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
   - Link instalação **Xampp:** (https://www.apachefriends.org/pt_br/download.html)
   - Link para vídeo de como instalar o Xampp:(https://www.youtube.com/watch?v=JRhZi10lmOU)  
   - Link instlação **MySQL:** (https://dev.mysql.com/downloads/installer/)
-  - Link para vídeo de como instalar o MySQL:(https://www.youtube.com/watch?v=fmerTu7dWk8)  
+  - Link para vídeo de como instalar o MySQL:(https://www.youtube.com/watch?v=fmerTu7dWk8)
+  - Link instalação **WinRAR:** (https://www.win-rar.com/predownload.html?&L=0)
+  - Link para vídeo de como instalar o WinRAR:(https://www.youtube.com/watch?v=HT2LxYKFdmU)
   - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
 ## Versão
