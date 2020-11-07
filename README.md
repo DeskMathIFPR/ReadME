@@ -98,6 +98,6 @@ Beta
 
 ##
  
-- Obrigado por utilizar o DeskMath! 
+* Obrigado por utilizar o DeskMath! 
 - Em caso de bugs ou erros com o programa, por favor entre em contato com: deskmathifpr@gmail.com 
 - Nós agradecemos seu feedback para melhorar o funcionamento deste projeto.
