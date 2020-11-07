@@ -18,7 +18,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 * MySQL
 * Java 
  
-## 🚀Getting started
+## ⚙️Getting started
  
 * To install gems:
 >    $ bundle install
@@ -27,7 +27,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 * To run the project:
 >    $ rails s
  
-## ⚙️Como utilizar o aplicativo:
+## 🚀Como utilizar o aplicativo:
  
 ### 1 - Faça login no aplicativo. Você pode fazer o login ou cadastrar-se, se preferir.
 ![Login Print](https://github.com/DeskMathIFPR/ReadME/blob/main/loginTELA.png)
@@ -60,10 +60,12 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ![Exercícios Radi. Print](https://github.com/DeskMathIFPR/ReadME/blob/main/radi3TELA.png)
  
 ## Features
- 
-  - 
- 
- 
+
+- [x] Cadastro de usuário
+- [x] Interação de telas
+- [x] Conteúdos 
+- [x] 
+
 ## Links
  
   - Link para Download DeskMath: **********************
