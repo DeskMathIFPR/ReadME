@@ -18,6 +18,11 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 * MySQL
 * Java 
  
+### 💡Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html), [NetBeans](http://www.netbeans.com), [Xampp](), [MySQL]().  
+ 
 ## ⚙️Getting started
  
 * To install gems:
@@ -69,11 +74,16 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 - [ ] Executável
 - [ ] Instalador
 
-## Links
+## 🔗Links
  
-  - Link para Download DeskMath: **********************
-  - Em caso de bugs ou erros com o programa, por favor entre em contato com: deskmathifpr@gmail.com 
+  - Link para Download **DeskMath**: (**Link do Site**)
+  - Link instalação Java: (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+  - Link para vídeo de como instalar o Java: (*********)
+  - Link instalação Netbeans: (http://www.netbeans.com)
+  - Link para vídeo de como instalar o NetBeans: (*********)
   - Link GitHub: (https://github.com/DeskMathIFPR)
+  - Em caso de bugs ou erros com o programa, por favor entre em contato com: deskmathifpr@gmail.com 
+  
     
 ## Versão
  
