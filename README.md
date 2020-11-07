@@ -20,7 +20,12 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ### 💡Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html), [NetBeans](http://www.netbeans.com), [Xampp](), [MySQL]().  
+[Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html), [NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe), [Xampp](), [MySQL]().
+
+Preparação do Ambiente de desenvolvimento:
+Obter o kit Java (instalar o JDK)
+
+• Clique em Java Plataform (JDK) 7 (ou o mais recente)
  
 ## ⚙️Getting started
  
@@ -78,7 +83,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
   - Link para Download **DeskMath**: (**Link do Site**)
   - Link instalação **Java**: (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
   - Link para vídeo de como instalar o Java: (*********)
-  - Link instalação **Netbeans**: (http://www.netbeans.com)
+  - Link instalação **Netbeans**: (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
   - Link para vídeo de como instalar o NetBeans: (*********)
   - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
