@@ -1,7 +1,6 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
    * [Sobre](#deskmath) 
-   * [Serviços](#serviços-utilizados) 
    * [Instalação](#getting-started) 
    * [Como usar](#como-utilizar-o-aplicativo)
    * [Links](#links)
@@ -77,14 +76,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ## 🔗Links
  
   - Link para Download **DeskMath**: (**Link do Site**)
-  - Link instalação Java: (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+  - Link instalação **Java**: (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
   - Link para vídeo de como instalar o Java: (*********)
-  - Link instalação Netbeans: (http://www.netbeans.com)
+  - Link instalação **Netbeans**: (http://www.netbeans.com)
   - Link para vídeo de como instalar o NetBeans: (*********)
-  - Link GitHub: (https://github.com/DeskMathIFPR)
-  - Em caso de bugs ou erros com o programa, por favor entre em contato com: deskmathifpr@gmail.com 
+  - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
-    
 ## Versão
  
 Beta
@@ -102,4 +99,5 @@ Beta
 ##
  
  Obrigado por utilizar o DeskMath! 
+ Em caso de bugs ou erros com o programa, por favor entre em contato com: deskmathifpr@gmail.com 
  Nós agradecemos seu feedback para melhorar o funcionamento deste projeto.
