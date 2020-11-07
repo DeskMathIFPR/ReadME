@@ -21,12 +21,15 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 
  - Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html), [NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe), [Xampp](https://www.apachefriends.org/pt_br/download.html), [MySQL](https://dev.mysql.com/downloads/installer/).
+ 
+ - Se já tiver instalado na sua máquina uma dessas ferramentas, não necessita a reinstalação de uma delas!
 
 ## ⚙️Instalação
 
 ### Você pode instlar o Java JDK com o NetBeans em um único link seguindo esses passos:
 
-- Acesse esse [Link](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html).
+- **Acesse esse** [Link](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html).
+
 - **Em seguida, clique em "Download" para baixar o JDK mais atualizado junto do NetBeans:**
 ![jdk Print](https://github.com/DeskMathIFPR/ReadME/blob/main/jdkTELA.png)
 
@@ -84,17 +87,13 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
   - Link para Download **DeskMath:** (**Link do Site**)
   
   - Link instalação **Java SE Platform (JDK):** (https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
-  - Link para vídeo de como instalar o Java JDK: (https://www.youtube.com/watch?v=KeDhlDXezMs)
-  
+  - Link para vídeo de como instalar o Java JDK: (https://www.youtube.com/watch?v=KeDhlDXezMs)  
   - Link instalação **Netbeans:** (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
-  - Link para vídeo de como instalar o NetBeans: (https://www.youtube.com/watch?v=kuiA6ciuYEQ)
-  
-  - Link instalação **Xampp:** ()
-  - Link para vídeo de como instalar o Xampp:()
-  
-  - Link instlação **MySQL:** ()
-  - Link para vídeo de como instalar o MySQL:()
-  
+  - Link para vídeo de como instalar o NetBeans: (https://www.youtube.com/watch?v=kuiA6ciuYEQ)  
+  - Link instalação **Xampp:** (https://www.apachefriends.org/pt_br/download.html)
+  - Link para vídeo de como instalar o Xampp:(https://www.youtube.com/watch?v=JRhZi10lmOU)  
+  - Link instlação **MySQL:** (https://dev.mysql.com/downloads/installer/)
+  - Link para vídeo de como instalar o MySQL:(https://www.youtube.com/watch?v=fmerTu7dWk8)  
   - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
 ## Versão
