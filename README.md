@@ -1,7 +1,7 @@
 ![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
 
    * [Sobre](#deskmath) 
-   * [Instalação](#getting-started) 
+   * [Instalação](#%EF%B8%8Finstalação) 
    * [Como usar](#como-utilizar-o-aplicativo)
    * [Links](#links)
    * [Autores](#autores)
@@ -81,12 +81,20 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 
 ## 🔗Links
  
-  - Link para Download **DeskMath**: (**Link do Site**)
-  - Link instalação **Java SE Platform (JDK)**: (https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
+  - Link para Download **DeskMath:** (**Link do Site**)
+  
+  - Link instalação **Java SE Platform (JDK):** (https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
   - Link para vídeo de como instalar o Java JDK: (https://www.youtube.com/watch?v=KeDhlDXezMs)
-  - Link instalação **Netbeans**: (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
+  
+  - Link instalação **Netbeans:** (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
   - Link para vídeo de como instalar o NetBeans: (https://www.youtube.com/watch?v=kuiA6ciuYEQ)
-  - Link 
+  
+  - Link instalação **Xampp:** ()
+  - Link para vídeo de como instalar o Xampp:()
+  
+  - Link instlação **MySQL:** ()
+  - Link para vídeo de como instalar o MySQL:()
+  
   - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
 ## Versão
