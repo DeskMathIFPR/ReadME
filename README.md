@@ -59,12 +59,15 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ### 5.3 - Na tela de exercícios você terá um um botão para começar a praticar. Clicando em "Começar!", logo vai aparecer um exercício, após a resolução, é só digitrar a resposta no campo de texto e verificar se esta correta ou não.
 ![Exercícios Radi. Print](https://github.com/DeskMathIFPR/ReadME/blob/main/radi3TELA.png)
  
-## Features
+### Features
 
 - [x] Cadastro de usuário
 - [x] Interação de telas
 - [x] Conteúdos 
-- [x] 
+- [x] Exercícios
+- [ ] Banco
+- [ ] Executável
+- [ ] Instalador
 
 ## Links
  
