@@ -20,7 +20,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 ### 💡Pré-requisitos
 
  - Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html), [NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe), [Xampp](), [MySQL]().
+[Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html), [NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe), [Xampp](https://www.apachefriends.org/pt_br/download.html), [MySQL](https://dev.mysql.com/downloads/installer/).
 
 ## ⚙️Instalação
 
@@ -33,7 +33,9 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
 - **Aceite os termos de licença e em seguida escolha a versão que mais se encaixa com sua máquina:**
 ![jdk2 Print](https://github.com/DeskMathIFPR/ReadME/blob/main/jdk2TELA.png)
 
-- **A instalação vai começar e gerar um arquivo zip.**
+- **A instalação vai começar e gerar um arquivo .exe**
+
+-
  
 ## 🚀Como utilizar o aplicativo:
  
@@ -84,6 +86,7 @@ A proposta de trabalho consiste no desenvolvimento de um aplicativo no qual o ob
   - Link para vídeo de como instalar o Java JDK: (https://www.youtube.com/watch?v=KeDhlDXezMs)
   - Link instalação **Netbeans**: (https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.1/Apache-NetBeans-12.1-bin-windows-x64.exe)
   - Link para vídeo de como instalar o NetBeans: (https://www.youtube.com/watch?v=kuiA6ciuYEQ)
+  - Link 
   - Link **GitHub**: (https://github.com/DeskMathIFPR)
   
 ## Versão
