@@ -1,4 +1,4 @@
-![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo2.png)
+![Logo do projeto!](https://github.com/DeskMathIFPR/ReadME/blob/main/logo1.png)
 
    * [Sobre](#deskmath) 
    * [Instalação](#%EF%B8%8Finstalação) 
